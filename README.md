@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/Accenden/Accenden/refs/heads/main/thingy.png)
+![image](https://raw.githubusercontent.com/Accenden/Accenden/refs/heads/main/Screenshot%202026-01-11%20022745.png)
 # About Me
 I am a CS student that has worked on Minecraft plugins and currently making games in Unity
 
