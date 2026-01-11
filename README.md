@@ -1,4 +1,6 @@
-## Hi there 👋
+![image](https://raw.githubusercontent.com/Accenden/Accenden/refs/heads/main/thingy.png)
+# About Me
+I am a CS student that has worked on Minecraft plugins and currently making games in Unity
 
 <!--
 **Accenden/Accenden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
